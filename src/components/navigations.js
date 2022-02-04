@@ -23,6 +23,9 @@ export default function Navigation() {
                         <NavItem>
                             <NavLink href="/leaderboard">Leaderboard</NavLink>
                         </NavItem>
+                        <NavItem>
+                            <NavLink href="/upload">Upload</NavLink>
+                        </NavItem>
                     </Nav>
                 </Collapse>
                 <Nav className="me-auto" navbar>
